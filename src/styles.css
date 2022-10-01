@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
+.side_menu {
+  width: 300px;
+  height: 100%;
+  background-color: #57b9fc;
+  text-align: center;
+}
+.personnel_img {
+  width: 72px;
+  height: 72px;
+}
+
+.flexbox {
+  display: flex;
+}
